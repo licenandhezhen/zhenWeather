@@ -1,0 +1,12 @@
+<litepal>
+    <dbname value="zhen_weather"></dbname>
+    <verson value="1"></verson>
+    <list>
+        <mapping class="com.example.zhenweather.db.City"></mapping>
+        <mapping class="com.example.zhenweather.db.County"></mapping>
+        <mapping class="com.example.zhenweather.db.Province"></mapping>
+
+    </list>
+
+
+</litepal>
